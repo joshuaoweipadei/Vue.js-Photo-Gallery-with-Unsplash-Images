@@ -2,14 +2,17 @@
   "name": "vue-gallery-app",
   "version": "0.1.0",
   "private": true,
+  "description": "Vue.js + Unsplash Images - A Pinterest Like-Style Photo Gallery App",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.20.0",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-stack-grid": "^1.2.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
