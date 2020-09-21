@@ -30,7 +30,7 @@
 				</div>
 
 				<div style="margin-top:100px; margin-bottom:50px; font-size:12px" class="text-center">
-					<p class="mb-1">GitHub: <a href=""></a></p>
+					<p class="mb-1">GitHub: <a href="https://github.com/joshuaoweipadei/Vue.js-Photo-Gallery-with-Unsplash-Images">https://github.com/joshuaoweipadei/Vue.js-Photo-Gallery-with-Unsplash-Images</a></p>
 					<p>Created by Joshua Oweipadei Bayefa</p>
 				</div>
 			</div>
