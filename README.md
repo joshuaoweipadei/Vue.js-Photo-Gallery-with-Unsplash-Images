@@ -50,5 +50,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Live Demo](https://vuejs-photo-gallery.netlify.app/)
